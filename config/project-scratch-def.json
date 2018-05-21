@@ -1,0 +1,7 @@
+{
+    "orgName": "Nix-Project2",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
