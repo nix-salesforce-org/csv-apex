@@ -1,4 +1,5 @@
 mdapi-output
 .sfdx
+.vscode
 credentials.txt
 *.zip
