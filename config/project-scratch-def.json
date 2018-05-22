@@ -1,6 +1,7 @@
 {
     "orgName": "Nix-Project2",
     "edition": "Developer",
+    "features": "DebugApex",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
     }
